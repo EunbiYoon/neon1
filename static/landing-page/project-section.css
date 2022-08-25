@@ -1,6 +1,6 @@
 #project-section{
     padding: 68px 15px;
-    background-color: darkgray;
+    background-color: WHITE;
 }
 
 #project-section .title{
@@ -11,7 +11,6 @@
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    margin: 0 auto;
 
 }
 
@@ -21,17 +20,17 @@
     position: relative;
     font-size: 4rem;
     text-transform: uppercase;
-    font-weight: 800;
-    color:white;
+    font-weight: 1000;
+    color:rgb(45, 24, 76);
     z-index: 1;
 }
 
 
 #project-section .file_shape1
 {
-    background-color:#2f3742;
+    background-color:rgb(228, 228, 228);;
     border-bottom: 50px solid #FFA000;
-	border-left: 100px solid transparent;
+	border-left: 100px solid white;
 	height:0;
 	width: 400px;
     position:static;
@@ -40,9 +39,9 @@
 
 #project-section .file_shape2
 {
-    background-color:#2f3742;
-    border-bottom: 50px solid #2f3742;
-	border-left: 230px solid transparent;
+    background-color:white;
+    border-bottom: 50px solid white;
+	border-left: 230px solid white;
 	height:0;
     width:0px;
     position:static;
@@ -99,7 +98,7 @@
     height: 100%;
     font-size: 2rem;
     cursor: pointer;
-    color:rgba(255, 192, 203, 0.527);
+    color:rgb(49, 82, 98);
 }
 
 #project-section .project-container .box .btn:hover{
@@ -139,7 +138,7 @@
 
 
 #project-section .project-container .box.image1 {
-    background-image:url("https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/11/upgrade-premium-animation-dribbble.gif");
+    background: url('https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif');
     height : 100%;
     width : 100%;
     background-size: cover;
@@ -157,7 +156,7 @@
 }
 
 #project-section .project-container .box.image3{ 
-    background: url('https://cdn.dribbble.com/users/56427/screenshots/4111765/media/31cd101a8ce91ee68cfd5de67d2661c7.gif');
+    background: url('https://cdn.dribbble.com/users/470545/screenshots/3471475/calculater.gif');
     height : 100%;
     width : 100%;
     background-size: cover;
@@ -166,8 +165,7 @@
 }
 
 #project-section .project-container .box.image4{
-    
-    background: url('https://www.bing.com/th/id/OGC.c3fd9394d5bd917963572d3174499cff?pid=1.7&rurl=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f07%2fgif-website-11.gif&ehk=5jNGEkPyVUchX7hYLUQPpq1otUKPzSUxyZWHrzfUI9M%3d');
+    background: url('https://cdn.dribbble.com/users/1603428/screenshots/4158745/web-dev-gif.gif');
     height : 100%;
     width : 100%;
     background-size: cover;
@@ -177,6 +175,7 @@
 
 #project-section .project-container .box.image5{
     background-color: transparent;
+    background-image: url("https://i.pinimg.com/originals/cf/51/ad/cf51ad748537f4ea6899ab44388ad110.gif");
     font-size: 2.5rem;
     color:white;
     height : 100%;

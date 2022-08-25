@@ -16,7 +16,7 @@ body{
     top:0; 
     bottom:0; right:0; left:0; 
     background: #2f3742;
-    background-color: antiquewhite;
+    background-color: rgba(238, 119, 119, 0.121);
 }
 
 /*전체 팜플렛의 위치 모니터 크기를 고려한 스펙*/
